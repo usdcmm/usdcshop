@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 
-const UPI_ID = "Yaswant12@fam";
+const UPI_ID = "suryadeep01@fam";
 const TIMER_SECONDS = 895; // ~14:55
 
 const PaymentModal = ({ isOpen, onClose, card }) => {
