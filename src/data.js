@@ -1,0 +1,43 @@
+// data.js
+export const cards = [
+  {
+    id: 1,
+    type: "GOLD",
+    name: "Sanket Jain",
+    number: "5450 •••• ••••",
+    limit: "$450",
+    expiry: "05/27",
+    price: 600,
+    status: "SOLD OUT",
+  },
+  {
+    id: 2,
+    type: "PREMIUM",
+    name: "Dev Joshi",
+    number: "4227 •••• ••••",
+    limit: "$900",
+    expiry: "11/26",
+    price: 1200,
+    status: "SOLD OUT",
+  },
+  {
+    id: 3,
+    type: "ELITE",
+    name: "Kunal Kapoor",
+    number: "4892 •••• ••••",
+    limit: "$1200",
+    expiry: "09/28",
+    price: 1800,
+    status: "3 LEFT",
+  },
+  {
+    id: 4,
+    type: "LUXURY",
+    name: "Yash Aggarwal",
+    number: "3714 •••• ••••",
+    limit: "$2500",
+    expiry: "08/27",
+    price: 2500,
+    status: "2 LEFT",
+  },
+];
