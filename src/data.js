@@ -3,7 +3,7 @@
 
 export const cards = [
   // ==================== GOLD (SOLD OUT) ====================
-  { id: 1, type: "GOLD", name: "Ishaan Gupta", number: "5450 •••• ••••", limit: "$450", expiry: "01/30", price: 600, status: "SOLD OUT" },
+  { id: 1, type: "GOLD", name: "Ishaan gupta", number: "5450 •••• ••••", limit: "$450", expiry: "01/30", price: 600, status: "SOLD OUT" },
   { id: 2, type: "PREMIUM", name: "Piyush Gupta", number: "4227 •••• ••••", limit: "$900", expiry: "05/30", price: 1200, status: "SOLD OUT" },
   { id: 3, type: "ELITE", name: "Dev Khan", number: "4892 •••• ••••", limit: "$1200", expiry: "06/27", price: 1800, status: "3 LEFT" },
   { id: 4, type: "LUXURY", name: "Pankaj Sharma", number: "3714 •••• ••••", limit: "$2500", expiry: "04/26", price: 2500, status: "4 LEFT" },
